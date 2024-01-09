@@ -1,0 +1,30 @@
+NOTES Z CALLU S NAŠÍM SUPERVISOREM
+
+- scope: je ok, ale soustředit se na programování 
+soustředit se na uživatele, aby si mohl něco vybrat
+ -> něco se stane automaticky + zdoumentovat, + replikovatelné 
+nekopírovat, ale dělat věci tak aby byly automatické, 
+např. getstock data - pořádně dokumentace na metody, uměle vytvoříme list, , mohli bychom posílat jen jeden request
+
+
+- modelovat ceny, returns  - nesmysl
+- dá se modelovat volatilita 
+->> spíš doporučuje jednodušší portfolio selection strategie, minimum variance porfolio, max sharpe ratio portfolio
++ napsat si to sami - uděláme přímo funkci
++ mám program - ten nabzí učiteli aby tomu poskytl historický dataste nějakých arbirary assets/ returns akcíí z yfinance
+                uživatel poskytne data -  vstup, a my vtrátíme - basic datovů analýzu, např unseprovised learning clustering
+		potom můžeme vrátit jakú portofolio selection chce uživatel - risk např.
+		 program vátí jaké jsou optimální váhy pro portfolio, a výdledek --> analýza
+		funce  v modulech, projekt zdokumentovaný 
+
+
+- quantopian -  https://github.com/quantopian/empyrical
+
+- exploratory data analysis - jak se počítá total portfolio - suma cen = nonsense, equal weight strategie/ market value strategie
+
+- chdte v malých iteracích, pokaždé mít funkční pipeline, mít 1 sript,
+který vždy něco vratí a postupně přidělávat
+
+
+
++ nápad jak zlepšit kod - time wise
