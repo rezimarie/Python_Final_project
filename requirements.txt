@@ -1,0 +1,13 @@
+pandas==1.5.3
+matplotlib==3.7.0
+numpy==1.23.5
+yfinance==0.2.33
+seaborn==0.12.2
+functools==3.0.0
+scipy==1.10.0
+scipy==optimize
+datetime
+yfinance==0.1.59
+seaborn==0.11.2
+xgboost==1.4.2
+scikit-learn==0.24.2
