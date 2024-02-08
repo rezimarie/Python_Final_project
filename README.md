@@ -1,9 +1,12 @@
 # Final_project
 hi, welcome to our final project,
-we offer tools for both active or passive trading, 
-if you like active trading, look at our sheet Models and simulations, here you 
-if you like passive investing, you can use our tool for portfolio creation and analysis and than use Monte Carlo simulations to see how will the porfolio likely evolve
-we aslo specifically focus on energy companies, and comparison of sustainable and unsustainable energy companies, indicating whether the market situation is in favor of sustainable stocks or not
+we offer tools for both active or passive trading.
+
+If you like active trading, look at our sheet Models and simulations.
+
+If you like passive investing, you can use our tool for portfolio creation and analysis and than use Monte Carlo simulations to see how will the porfolio likely evolve.
+
+We aslo specifically focus on energy companies, and comparison of sustainable and unsustainable energy companies, indicating whether the market situation is in favor of sustainable stocks or not
 
 In the Model and simulations, assets (stocks) that you want to consider, time period and invested amount, and the tool will provide you with optimal weights among these assets, including projections of future development. The output is also coompanied by multiple visualisations.
 
