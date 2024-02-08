@@ -2,9 +2,9 @@
 Hi, welcome to our final project,
 we offer tools for both active or passive trading. We also offer some insight into performance of sustainable companies, compared to unsistainable.
 
-- If you  prefer passive investing, you can use our tool for Portfolio creation and analysis and check use Monte Carlo simulations to see how will the porfolio likely evolve.
+- If you  prefer passive investing, you can use our tool for **Portfolio creation and analysis** and check use Monte Carlo simulations to see how will the porfolio likely evolve.
 
-- If you like active trading, look at our sheet Models and simulations.
+- If you like active trading, look at our sheet **Models and simulations**.
 
 - We also specifically focus on energy companies in sheet **To sustain or not to sustain**, where we offer comparison of sustainable and unsustainable ones, this can help to indicate whether the market situation is in favor of sustainable stocks or not.
 
