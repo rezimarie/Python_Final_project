@@ -1,5 +1,5 @@
 # Final_project
-hi, welcome to our final project,
+Hi, welcome to our final project,
 we offer tools for both active or passive trading.
 
 If you like active trading, look at our sheet Models and simulations.
