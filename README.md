@@ -1,6 +1,6 @@
 # Final_project
 Hi, welcome to our final project,
-we offer tools for both active or passive trading. We also offer some insight into performance of sustainable compcanies, compared to unsistainable.
+we offer tools for both active or passive trading. We also offer some insight into performance of sustainable companies, compared to unsistainable.
 
 - If you  prefer passive investing, you can use our tool for Portfolio creation and analysis and check use Monte Carlo simulations to see how will the porfolio likely evolve.
 
