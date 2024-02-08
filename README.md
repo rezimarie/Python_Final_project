@@ -6,7 +6,7 @@ we offer tools for both active or passive trading. We also offer some insight in
 
 - If you like active trading, look at our sheet Models and simulations.
 
-- We aslo specifically focus on energy companies, and offer comparison of sustainable and unsustainable ones, this can help to indicate whether the market situation is in favor of sustainable stocks or not.
+- We also specifically focus on energy companies in sheet To sustain or not to sustain, where we offer comparison of sustainable and unsustainable ones, this can help to indicate whether the market situation is in favor of sustainable stocks or not.
 
 In the Model and simulations, assets (stocks) that you want to consider, time period and invested amount, and the tool will provide you with optimal weights among these assets, including projections of future development. The output is also coompanied by multiple visualisations.
 
