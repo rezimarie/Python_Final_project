@@ -1,3 +1,8 @@
+# requirements and usage:
+- The tools in this project are written in Jupyter Notebooks
+- The version of Python this project was created with is 3.10.9
+- check the requirements.txt file to install required libraries and modules
+
 # Final_project
 Hi, welcome to our final project,
 we offer tools for both active or passive trading. We also offer some insight into performance of sustainable companies, compared to unsistainable.
