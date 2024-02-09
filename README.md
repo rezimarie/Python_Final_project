@@ -12,7 +12,7 @@ If you prefer active trading, take a look at the **Trading Strategies** reposito
 For our project, we took the advantage of the yfinance library, which uses publicly available Yahoo Finance API to download historical data on a plethora of financial products such as stocks or indices. Obtaining data in all notebooks is based on the yfinance.download function.
 
 ## Sustainable vs. unsustainable companies
-We also specifically focus on energy companies in sheet **To sustain or not to sustain**, where we offer comparison of sustainable and unsustainable ones, this can help to indicate whether the market situation is in favor of sustainable stocks or not. We do this by using our portfolio creation strategies and than observing, how many of the sustainable stocks made it to the final portfolio.
+We also specifically focus on energy companies in notebook **To sustain or not to sustain**, where we offer comparison of sustainable and unsustainable ones, this can help to indicate whether the market situation is in favor of sustainable stocks or not. We do this by using our portfolio creation strategies and than observing, how many of the sustainable stocks made it to the final portfolio.
 
 
 
